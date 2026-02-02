@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/palash/ensc351/work/ensc351/SmartDoorbell/build/hal",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/hal/include -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/include -g -std=gnu11 -Wall -Werror -Wpedantic -Wextra -fdiagnostics-color -pthread -o CMakeFiles/hal.dir/src/accelerometer.c.o -c /home/palash/ensc351/work/ensc351/SmartDoorbell/hal/src/accelerometer.c",
+  "file": "/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/src/accelerometer.c",
+  "output": "hal/CMakeFiles/hal.dir/src/accelerometer.c.o"
+},
+{
+  "directory": "/home/palash/ensc351/work/ensc351/SmartDoorbell/build/hal",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/hal/include -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/include -g -std=gnu11 -Wall -Werror -Wpedantic -Wextra -fdiagnostics-color -pthread -o CMakeFiles/hal.dir/src/joystick.c.o -c /home/palash/ensc351/work/ensc351/SmartDoorbell/hal/src/joystick.c",
+  "file": "/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/src/joystick.c",
+  "output": "hal/CMakeFiles/hal.dir/src/joystick.c.o"
+},
+{
+  "directory": "/home/palash/ensc351/work/ensc351/SmartDoorbell/build/hal",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/hal/include -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/include -g -std=gnu11 -Wall -Werror -Wpedantic -Wextra -fdiagnostics-color -pthread -o CMakeFiles/hal.dir/src/led.c.o -c /home/palash/ensc351/work/ensc351/SmartDoorbell/hal/src/led.c",
+  "file": "/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/src/led.c",
+  "output": "hal/CMakeFiles/hal.dir/src/led.c.o"
+},
+{
+  "directory": "/home/palash/ensc351/work/ensc351/SmartDoorbell/build/hal",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/hal/include -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/include -g -std=gnu11 -Wall -Werror -Wpedantic -Wextra -fdiagnostics-color -pthread -o CMakeFiles/hal.dir/src/spi_adc.c.o -c /home/palash/ensc351/work/ensc351/SmartDoorbell/hal/src/spi_adc.c",
+  "file": "/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/src/spi_adc.c",
+  "output": "hal/CMakeFiles/hal.dir/src/spi_adc.c.o"
+},
+{
+  "directory": "/home/palash/ensc351/work/ensc351/SmartDoorbell/build/hal",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/hal/include -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/include -g -std=gnu11 -Wall -Werror -Wpedantic -Wextra -fdiagnostics-color -pthread -o CMakeFiles/hal.dir/src/uart.c.o -c /home/palash/ensc351/work/ensc351/SmartDoorbell/hal/src/uart.c",
+  "file": "/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/src/uart.c",
+  "output": "hal/CMakeFiles/hal.dir/src/uart.c.o"
+},
+{
+  "directory": "/home/palash/ensc351/work/ensc351/SmartDoorbell/build/app",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/palash/ensc351/work/ensc351/SmartDoorbell/app/include -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/include -g -std=gnu11 -Wall -Werror -Wpedantic -Wextra -fdiagnostics-color -pthread -o CMakeFiles/smart_doorbell.dir/src/camera.c.o -c /home/palash/ensc351/work/ensc351/SmartDoorbell/app/src/camera.c",
+  "file": "/home/palash/ensc351/work/ensc351/SmartDoorbell/app/src/camera.c",
+  "output": "app/CMakeFiles/smart_doorbell.dir/src/camera.c.o"
+},
+{
+  "directory": "/home/palash/ensc351/work/ensc351/SmartDoorbell/build/app",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/palash/ensc351/work/ensc351/SmartDoorbell/app/include -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/include -g -std=gnu11 -Wall -Werror -Wpedantic -Wextra -fdiagnostics-color -pthread -o CMakeFiles/smart_doorbell.dir/src/smart_doorbell.c.o -c /home/palash/ensc351/work/ensc351/SmartDoorbell/app/src/smart_doorbell.c",
+  "file": "/home/palash/ensc351/work/ensc351/SmartDoorbell/app/src/smart_doorbell.c",
+  "output": "app/CMakeFiles/smart_doorbell.dir/src/smart_doorbell.c.o"
+},
+{
+  "directory": "/home/palash/ensc351/work/ensc351/SmartDoorbell/build/app",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/palash/ensc351/work/ensc351/SmartDoorbell/app/include -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/include -g -std=gnu11 -Wall -Werror -Wpedantic -Wextra -fdiagnostics-color -pthread -o CMakeFiles/smart_doorbell.dir/src/sound.c.o -c /home/palash/ensc351/work/ensc351/SmartDoorbell/app/src/sound.c",
+  "file": "/home/palash/ensc351/work/ensc351/SmartDoorbell/app/src/sound.c",
+  "output": "app/CMakeFiles/smart_doorbell.dir/src/sound.c.o"
+},
+{
+  "directory": "/home/palash/ensc351/work/ensc351/SmartDoorbell/build/app",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/palash/ensc351/work/ensc351/SmartDoorbell/app/include -I/home/palash/ensc351/work/ensc351/SmartDoorbell/hal/include -g -std=gnu11 -Wall -Werror -Wpedantic -Wextra -fdiagnostics-color -pthread -o CMakeFiles/smart_doorbell.dir/src/udp_client.c.o -c /home/palash/ensc351/work/ensc351/SmartDoorbell/app/src/udp_client.c",
+  "file": "/home/palash/ensc351/work/ensc351/SmartDoorbell/app/src/udp_client.c",
+  "output": "app/CMakeFiles/smart_doorbell.dir/src/udp_client.c.o"
+}
+]

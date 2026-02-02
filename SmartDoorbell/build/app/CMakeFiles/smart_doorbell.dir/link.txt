@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-gcc -g -pthread -Wl,--dependency-file=CMakeFiles/smart_doorbell.dir/link.d CMakeFiles/smart_doorbell.dir/src/camera.c.o CMakeFiles/smart_doorbell.dir/src/smart_doorbell.c.o CMakeFiles/smart_doorbell.dir/src/sound.c.o CMakeFiles/smart_doorbell.dir/src/udp_client.c.o -o smart_doorbell  ../hal/libhal.a -ljpeg -lgpiod

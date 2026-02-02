@@ -1,0 +1,8 @@
+/home/palash/ensc351/work/ensc351/SmartDoorbell/build/CMakeFiles/edit_cache.dir
+/home/palash/ensc351/work/ensc351/SmartDoorbell/build/CMakeFiles/rebuild_cache.dir
+/home/palash/ensc351/work/ensc351/SmartDoorbell/build/hal/CMakeFiles/hal.dir
+/home/palash/ensc351/work/ensc351/SmartDoorbell/build/hal/CMakeFiles/edit_cache.dir
+/home/palash/ensc351/work/ensc351/SmartDoorbell/build/hal/CMakeFiles/rebuild_cache.dir
+/home/palash/ensc351/work/ensc351/SmartDoorbell/build/app/CMakeFiles/smart_doorbell.dir
+/home/palash/ensc351/work/ensc351/SmartDoorbell/build/app/CMakeFiles/edit_cache.dir
+/home/palash/ensc351/work/ensc351/SmartDoorbell/build/app/CMakeFiles/rebuild_cache.dir
